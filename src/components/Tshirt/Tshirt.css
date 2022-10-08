@@ -1,0 +1,10 @@
+.tshirt-details{
+    border: 1px solid cyan;
+    border-radius: 10px;
+    padding-bottom: 10px;
+
+}
+.tshirt-details img{
+    height: 210px;
+
+}
